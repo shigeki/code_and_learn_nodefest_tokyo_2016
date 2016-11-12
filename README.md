@@ -1,5 +1,8 @@
 # Code and Learn Tokyo 2016 ポータル
 
+### 古川さんの Code and Learn 資料
+  https://speakerdeck.com/yosuke_furukawa/code-and-learn-jp
+
 ### 大津の Code and Learn 資料
 
   https://speakerdeck.com/shigeki/nodehefalse-kodogong-xian-falseshi-fang
