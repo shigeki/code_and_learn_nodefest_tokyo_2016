@@ -53,7 +53,7 @@ Node.jsのテストスィートから以下の基本的なテストを解説し�
 9  server.listen(0, () => {
 10   http.get({
 11     port: server.address().port,
-12     headers: {'Test': 'D端sseldorf'}
+12     headers: {'Test': 'Tokyo'}
 13   }, common.mustCall((res) => {
 14     assert.equal(res.statusCode, 200);
 15     server.close();
