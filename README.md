@@ -1,12 +1,14 @@
-# Nodeへのコード貢献の仕方 ポータル
+# Code and Learn Tokyo 2016 ポータル
 
-Nodeへのコード貢献の仕方
-
-### 東京Node学園祭2016 の Code and Learn 資料です。
+### 東京Node学園祭2016 の Code and Learn 資料
 
   https://speakerdeck.com/shigeki/nodehefalse-kodogong-xian-falseshi-fang
 
-### なんでも PR していい練習用 Node のレポジトリーです。
+- [CONTRIBUTING_ja.md](./CONTRIBUTING_ja.md) CONTRIBUTINGの和訳
+
+- [writing_tests_ja.md](./writing_tests_ja.md) テストの書き方の和訳
+
+### なんでも PR していい練習用 Node のレポジトリー
 
   https://github.com/shigeki/node_testpr
 
