@@ -9,3 +9,7 @@ https://speakerdeck.com/shigeki/nodehefalse-kodogong-xian-falseshi-fang
 - なんでも PR していい練習用 Node のレポジトリーです。
 
 https://github.com/shigeki/node_testpr
+
+- Code and Learn Tokyo 2016用の本番向けPRネタリスト
+
+https://github.com/nodejs/code-and-learn/issues/58
