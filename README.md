@@ -1,6 +1,6 @@
 # Code and Learn Tokyo 2016 ポータル
 
-### 東京Node学園祭2016 の Code and Learn 資料
+### 大津の Code and Learn 資料
 
   https://speakerdeck.com/shigeki/nodehefalse-kodogong-xian-falseshi-fang
 
